@@ -1,3 +1,4 @@
 */dataset/*
 */env/
 */.ipynb_checkpoints
+*.pkl
