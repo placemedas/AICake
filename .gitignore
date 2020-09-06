@@ -2,3 +2,8 @@
 */env/
 */.ipynb_checkpoints
 *.pkl
+data/
+download
+dupl.txt
+faceurl.txt
+venv
